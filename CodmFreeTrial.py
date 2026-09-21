@@ -512,7 +512,7 @@ def free_process_route():
     conn.commit()
     conn.close()
 
-    return redirect("https://gplinks.co/FL9tVe")
+    return redirect("https://gplinks.co/xP1bTi")
     
 @app.route('/free/return')
 def free_return():
